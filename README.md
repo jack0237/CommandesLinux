@@ -1,7 +1,7 @@
 # Linux commands
 Some usefull commands used on linux
 
-##Getting started
+## Getting started
 
 
 
@@ -15,5 +15,5 @@ Some usefull commands used on linux
 
 
 
-#Some usefull links
+# Some usefull links
     -  [reactjs.org](https://reactjs.org/)
