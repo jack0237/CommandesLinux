@@ -6,12 +6,13 @@ Some usefull commands used on linux
 
 ## File Commands:
 
-    ls – directory listing
-    ls -al – formatted listing with hidden files
-    cd dir - change directory to dir
-    cd – change to home
-    pwd – show current directory
-    mkdir dir – create a directory dir
+    ls : directory listing
+    
+    ls -al : formatted listing with hidden files
+    cd dir : change directory to dir
+    cd : change to home
+    pwd : show current directory
+    mkdir dir : create a directory dir
     rm file – delete file
     rm -r dir – delete directory dir
     rm -f file – force remove file
